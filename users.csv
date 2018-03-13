@@ -1,0 +1,3 @@
+Action,UserID,Password,GivenName,FamilyName
+AU,joestudent,*GENERATE*,Joe,Student
+AU,marylearner,*GENERATE*,Mary,Learner
